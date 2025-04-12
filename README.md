@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I am Pedro J. Buigues, a 4th Year PhD Student at University College London (UCL) in the Rosta group. Bachelor’s in Biotechnology, Master’s in Advanced Molecular and Therapeutic Biotechonology. Studies about enhanced sampling methods for molecular dynamics simulations applying machine learning.<br><br>Experienced with Python coding/scripting as well as running jobs on HPC, also running trajectories on molecular dynamics (MD) packages (NAMD, AMBER, GROMACS, OPENMM, etc.), Machine Learning libraries (tensorflow, sklearn, pytorch) as well as MD analysis packages and Pymol/VMD. A bit of Matlab experience and profound in bash/Linux.<br><br>Awarded with the Fundamentals of Deep Learning certificate by the NVIDIA Deep Learning Institute.<br>Experience deploying ML models (MLP, LSTM, CNN, GBDT, etc.)</p>
+<p align="left">Hello! I am Pedro J. Buigues, a PostDoctoral Researcher at the Italian Institute of Technology (IIT), former PhD Student at University College London (UCL) in the Rosta group. Bachelor’s in Biotechnology, Master’s in Advanced Molecular and Therapeutic Biotechonology. Studies about enhanced sampling methods for molecular dynamics simulations applying machine learning.<br><br>Experienced with Python coding/scripting as well as running jobs on HPC, also running trajectories on molecular dynamics (MD) packages (NAMD, AMBER, GROMACS, OPENMM, etc.), Machine Learning libraries (tensorflow, sklearn, pytorch) as well as MD analysis packages and Pymol/VMD. A bit of Matlab experience and profound in bash/Linux.<br><br>Awarded with the Fundamentals of Deep Learning certificate by the NVIDIA Deep Learning Institute.<br>Experience deploying ML models (MLP, LSTM, CNN, GBDT, etc.)</p>
 
 ###
 
